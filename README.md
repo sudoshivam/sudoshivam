@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Shivam!
+- 🔭 I’m currently working on my <a href="https://github.com/sudoshivam/pig-game">Dice Game</a>
+- 🌱 I’m currently learning <strong>React and nodeJS</strong>
+- 🤔 I’m looking for help with <strong>Javascript Projects</strong>
+- 💬 Ask me about <em><strong>Programming, Web Development and technology in general</em></strong>.
+- 📫 How to reach me: <a href="https://facebook.com/sudoshivam">Facebook</a>, <a href="https://twitter.com/sudoshivam">Twitter</a>, <a href="https://instagram.com/sudoshivam">Instagram</a>.
+- 😄 <a href="mailto:sy76076@gmail.com">Send me an email</a> 
+
 
 [![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudoshivam&count_private=true&show_icons=true&theme=radical)](https://github.com/sudoshivam/github-readme-stats)
 
@@ -10,18 +17,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sudoshivam&repo=minimalist-photoblog&theme=radical)](https://github.com/sudoshivam/minimalist-photoblog)
 
 
-
-<!--
-**sudoshivam/sudoshivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
