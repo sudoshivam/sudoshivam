@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shivam!
-- 🔭 I’m currently working on my <a href="https://github.com/sudoshivam/pig-game">Dice Game</a>
-- 🌱 I’m currently learning <strong>React and nodeJS</strong>
+- 🔭 I’m currently working on <a href="https://github.com/sudoshivam/pig-game">Pig Game</a>
+- 🌱 I’m currently learning <strong>React, nodeJS and MongoDB</strong>
 - 🤔 I’m looking for collaboration in <strong>Vanilla JS and React Projects</strong>
 - 💬 Ask me about <em><strong>Programming, Web Development and technology in general</em></strong>.
 - 📫 How to reach me: <a href="https://facebook.com/sudoshivam">Facebook</a>, <a href="https://twitter.com/sudoshivam">Twitter</a>, <a href="https://instagram.com/sudoshivam">Instagram</a>.
