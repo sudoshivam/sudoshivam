@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning <strong>React, nodeJS and MongoDB</strong>
 - 🤔 I’m looking for collaboration in <strong>Vanilla JS and React Projects</strong>
 - 💬 Ask me about <em><strong>Programming, Web Development and technology in general</em></strong>.
-- 📫 How to reach me: <a href="https://facebook.com/sudoshivam">Facebook</a>, <a href="https://twitter.com/sudoshivam">Twitter</a>, <a href="https://instagram.com/sudoshivam">Instagram</a>.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/sudoshivam/">LinkedIn</a>, <a href="https://twitter.com/sudoshivam">Twitter</a>, <a href="https://instagram.com/sudoshivam">Instagram</a>.
 - 😄 <a href="https://sudoshivam.me/">Check my website!</a> 
 
 
