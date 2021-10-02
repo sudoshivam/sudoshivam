@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Shivam!
+### your friendly neighbourhood 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=couriernew&color=DC2592&size=24&vCenter=true&height=22&lines=engineer;programmer;designer;developer)](https://git.io/typing-svg)
 - 🔭 I’m currently working on <a href="https://github.com/sudoshivam/pig-game">Pig Game</a>
 - 🌱 I’m currently learning <strong>React, nodeJS and MongoDB</strong>
 - 🤔 I’m looking for collaboration in <strong>Vanilla JS and React Projects</strong>
