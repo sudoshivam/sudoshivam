@@ -5,7 +5,10 @@
 - 🤔 I’m looking for collaboration in <strong>Vanilla JS and React Projects</strong>
 - 💬 Ask me about <em><strong>Programming, Web Development and technology in general</em></strong>.
 - 📫 Contact me: <a href="https://www.linkedin.com/in/sudoshivam/">LinkedIn</a>, <a href="https://twitter.com/sudoshivam">Twitter</a>, <a href="https://instagram.com/sudoshivam">Instagram</a>.
-- 😄 <a href="https://sudoshivam.me/">Check my website!</a> 
+- 😄 <a href="https://sudoshivam.me/">Check my website!</a>
+ 
+![](https://komarev.com/ghpvc/?username=sudoshivam&color=dc2592&label=You+are+visitor)
+
 
 
 [![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudoshivam&count_private=true&show_icons=true&theme=radical)](https://github.com/sudoshivam/github-readme-stats)
@@ -14,3 +17,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudoshivam&langs_count=6&layout=compact&theme=radical)](https://github.com/sudoshivam/github-readme-stats)
+
