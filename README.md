@@ -7,7 +7,7 @@
 - 📫 Contact me: <a href="https://www.linkedin.com/in/sudoshivam/">LinkedIn</a>, <a href="https://twitter.com/sudoshivam">Twitter</a>, <a href="https://instagram.com/sudoshivam">Instagram</a>.
 - 😄 <a href="https://sudoshivam.me/">Check my website!</a>
  
-![](https://komarev.com/ghpvc/?username=sudoshivam&color=dc2592&label=You+are+visitor)
+![](https://komarev.com/ghpvc/?username=sudoshivam&color=dc2592&label=Profile+Views) [![wakatime](https://wakatime.com/badge/user/976e3897-1e63-463d-9d7f-a2c84c3383ba.svg)](https://wakatime.com/@976e3897-1e63-463d-9d7f-a2c84c3383ba)
 
 
 
@@ -17,4 +17,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudoshivam&langs_count=6&layout=compact&theme=radical)](https://github.com/sudoshivam/github-readme-stats)
-
