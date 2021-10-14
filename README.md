@@ -1,4 +1,5 @@
-> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Comfortaa'&color=%23268F77&size=25&vCenter=true&height=30&lines=Hello+there+!;Welcome+to+my+profile+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Comfortaa'&color=%23268F77&size=30&vCenter=true&height=30&lines=Hello+there+!;Welcome+to+my+profile+!)](https://git.io/typing-svg)
+----
 
 - 🌱 I’m currently learning <strong>React, nodeJS and MongoDB</strong>
 - 🤝 I’m looking for collaboration in <strong>Vanilla JS and React Projects</strong>
