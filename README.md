@@ -6,7 +6,7 @@
 
 <img align="right" src="https://64.media.tumblr.com/4c1305b98830868fc843e080f8de986c/b762112e0ae6dd9b-f3/s640x960/778ce4b9eb986da34fff5cb393a25463a1db413b.gif" widht="300">
 
-_Hello, this is ***Shivam Yadav***. I am a web developer and a part time freelancer. I love creating websites and apps. I spend my free time working on side projects and discussing about technology on internet forums. I'm currently learning ***ReactJS*** and ***Open Source***. You can contact me on my social media._
+_Hi, this is ***Shivam Yadav***. I am a web developer and a part time freelancer. I love creating websites and apps. I spend my free time working on side projects and discussing about technology on internet forums. I'm currently learning ***ReactJS*** and ***Open Source***. You can contact me on my social media._
 
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
