@@ -44,10 +44,10 @@ _Hi, this is ***Shivam Yadav***. I am a freelance web developer. I love creating
 </br>
 </br>
 <h2><i>Activity Graph</i></h2>
+</br>
 
 [![Shivam's github activity graph](https://activity-graph.herokuapp.com/graph?username=sudoshivam&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</br>
 <h2><i>Language and Tools</i></h2>
 </br>
  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" height="auto" width="60px">
