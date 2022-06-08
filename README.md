@@ -50,7 +50,6 @@ _Hi, this is ***Shivam Yadav***. An AI research student, programmer and Script W
 
 <h2><i>Language and Tools</i></h2>
 </br>
- <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" height="auto" width="60px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" height="auto" width="60px">
  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="auto" width="60px"> 
  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="auto" width="60px">
