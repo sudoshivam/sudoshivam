@@ -50,16 +50,15 @@ _Hi, this is ***Shivam Yadav***. An AI research student, programmer and Script W
 
 <h2><i>Language and Tools</i></h2>
 </br>
- <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" height="auto" width="60px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" height="auto" width="60px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" height="auto" width="60px">
  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="auto" width="60px"> 
  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="auto" width="60px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg" height="auto" width="60px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" height="auto" width="60px">
-<!--  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" height="auto" width="60px"> -->
+ <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="auto" width="60px">
+ <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" height="auto" width="130px">
  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="auto" width="60px">
  <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" height="auto" width="60">
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="auto" width="130">
  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" width="130px">
  
 </br>
