@@ -46,7 +46,7 @@ _Hi, this is ***Shivam Yadav***. An AI research student, programmer and Script W
 <h2><i>Activity Graph</i></h2>
 </br>
 
-[![Shivam's github activity graph](https://activity-graph.herokuapp.com/graph?username=sudoshivam&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shivam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sudoshivam&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2><i>Language and Tools</i></h2>
 </br>
@@ -54,11 +54,14 @@ _Hi, this is ***Shivam Yadav***. An AI research student, programmer and Script W
  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="auto" width="60px"> 
  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="auto" width="60px">
  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="auto" width="60px">
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" height="auto" width="130px">
+ <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="auto" width="60px">
+<!--  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" height="auto" width="130px"> -->
+ <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="auto" width="60px">
+ <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="auto" width="60px">
  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="auto" width="60px">
  <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" height="auto" width="60">
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="auto" width="130">
- <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" width="130px">
+ <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="auto" width="130">
+<!--  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" width="130px"> -->
  
 </br>
 </br>
