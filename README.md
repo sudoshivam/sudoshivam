@@ -17,7 +17,7 @@ _Hi, this is ***Shivam Yadav***. An AI research student, programmer and Script W
         <a href="https://twitter.com/sudoshivam"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/000000/external-twitter-an-american-online-news-and-social-networking-service-logo-color-tal-revivo.png"/></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.instagram.com/sudoshivam/"><img src="https://img.icons8.com/fluency/96/000000/instagram-new.png"/></a>
+        <a href="https://www.kaggle.com/sudoshivam"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"/></a>
     </td>
     <td align='center' width="60">
         <a href="https://www.linkedin.com/in/sudoshivam"><img src="https://img.icons8.com/color/96/000000/linkedin-2.png"/></a>
